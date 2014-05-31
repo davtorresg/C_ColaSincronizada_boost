@@ -1,0 +1,7 @@
+# -- Ficheros a ignorar de eclipse --
+.cproject
+.project
+.settings/*
+
+# -- Ficheros compilados --
+Default/*
